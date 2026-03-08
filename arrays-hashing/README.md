@@ -1,6 +1,7 @@
-##Focus:##
+# Arrays & Hashing #
+## Focus: ##
 Problems involving arrays, hashing, and HashMaps.
-##Common patterns: ##
+## Common patterns: ##
 HashMap lookups, frequency counting, complement checks.
-##Goal: ##
+## Goal: ##
 Reduce nested loops to efficient O(n) solutions.
