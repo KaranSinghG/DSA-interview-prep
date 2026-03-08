@@ -2,8 +2,8 @@
 ## Pattern ##
 Array and Hashing - Complement Look up
 ## Key idea ##
-Instead of checking pair-wise sum\n
-Store current element in Hashmap, look up for the compliment of current element in the map\n\t
+Instead of checking pair-wise sum  
+Store current element in Hashmap, look up for the compliment of current element in the map  
 compliment = target - nums[i]
 ## Solved ##
 With a hint
@@ -18,5 +18,5 @@ With a hint
 Time - O(n)
 Space - O(n)
 ## Learning ##
-Brute Force - Iterating 2 elements at a time, checking their sum - O(n^2)\n
+Brute Force - Iterating 2 elements at a time, checking their sum - O(n^2)  
 Optimized - Using Hashmap to save the element - lookup later for compliment - O(n)
