@@ -5,5 +5,6 @@ DSA problems with solution and pattern
 
 | # | Problem | Category | Difficulty | Solved | Key Insight |
 |---|--------|----------|------------|--------------|-------------|
-| 1 | Two Sum | Arrays & Hashing | Easy | Hint Used | Complement lookup using HashMap |
+| 1 | Two Sum | Arrays & Hashing | Easy | Hint | Complement lookup using HashMap |
 | 2 | Contains Duplicate | Arrays & Hashing | Easy | Self | HashSet retrieval time is O(1) |
+| 3 | Valid Anagram | Arrays & Hashing | Easy | Hint | Single frequency array: increment for s and decrement for t |
