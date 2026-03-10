@@ -2,8 +2,8 @@
 ## Pattern ##
 Array and Hashing - HashSet Retrieval O(1)
 ## Key idea ##
-Instead of using array and checking for duplicates
-We can use HashSet to check if exists in O(1) time complexity
+Instead of using array and checking for duplicates  
+We can use HashSet to check if exists in O(1) time complexity  
 (We can HasMap also, but it will take a little more space)
 ## Solved ##
 Self
@@ -18,5 +18,5 @@ Self
 Time - O(n)
 Space - O(n)
 ## Learning ##
-Brute Force - Using arrays take up lot of space if the ELEMENT is very large
+Brute Force - Using arrays take up lot of space if the ELEMENT is very large  
 Optimized - Using HashSet to save the element - lookup later for ELEMENT - O(n)
