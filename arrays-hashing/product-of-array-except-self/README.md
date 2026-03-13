@@ -12,7 +12,7 @@ Prefix Pass
 2. Create result array
 3. For each index i:
    - result[i] = product
-   - product = product × nums[i]
+   - product = product × nums[i]  
 Suffix Pass  
 4. Initialize suffix product = 1
 5. Traverse array from right to left
