@@ -14,3 +14,4 @@ DSA problems with solution and pattern
 | 7 | Product of Array Except Self | Arrays & Hashing | Medium | Hint | Prefix product × Suffix product |
 | 8 | Valid Sudoku | Arrays & Hashing | Medium | Hint | Track row, column, and box using boolean arrays |
 | 9 | Longest Consecutive Sequence | Arrays & Hashing | Hint | Sequence start detection |
+| 10 | Valid Palindrome | Two Pointers | Easy | Self | Skip non-alphanumeric characters and compare using two pointers |
