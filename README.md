@@ -15,3 +15,8 @@ DSA problems with solution and pattern
 | 8 | Valid Sudoku | Arrays & Hashing | Medium | Hint | Track row, column, and box using boolean arrays |
 | 9 | Longest Consecutive Sequence | Arrays & Hashing | Medium | Hint | Sequence start detection |
 | 10 | Valid Palindrome | Two Pointers | Easy | Self | Skip non-alphanumeric characters and compare using two pointers |
+| 11 | Two Sum II (Sorted Input) | Two Pointers	| Medium | Self	| Sorted array → shrink search space using left/right pointers |
+| 12 | 3Sum	| Two Pointers | Medium | Hint | Fix one element and reduce to Two Sum using sorting |
+| 13 | Container With Most Water | Two Pointers	| Medium | Self | Move pointer at smaller height to maximize area |
+| 14 | Binary Search | Binary Search | Easy	| Self | Half search space each step using sorted property |
+| 15 | Search a 2D Matrix | Binary Search | Medium | Self | Treat matrix as a virtual 1D sorted array and map indices |
