@@ -20,3 +20,4 @@ DSA problems with solution and pattern
 | 13 | Container With Most Water | Two Pointers	| Medium | Self | Move pointer at smaller height to maximize area |
 | 14 | Binary Search | Binary Search | Easy	| Self | Half search space each step using sorted property |
 | 15 | Search a 2D Matrix | Binary Search | Medium | Self | Treat matrix as a virtual 1D sorted array and map indices |
+| 16 | Koko Eating Bananas | Binary Search | Medium | Self | Binary search on minimum valid speed (monotonic condition) |
