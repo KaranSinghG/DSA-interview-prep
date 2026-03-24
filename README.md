@@ -21,3 +21,4 @@ DSA problems with solution and pattern
 | 14 | Binary Search | Binary Search | Easy	| Self | Half search space each step using sorted property |
 | 15 | Search a 2D Matrix | Binary Search | Medium | Self | Treat matrix as a virtual 1D sorted array and map indices |
 | 16 | Koko Eating Bananas | Binary Search | Medium | Self | Binary search on minimum valid speed (monotonic condition) |
+| 17 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | Self | If mid > right → minimum in right half, else → minimum in left (including mid) 
