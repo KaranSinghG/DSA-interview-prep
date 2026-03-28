@@ -24,3 +24,4 @@ DSA problems with solution and pattern
 | 17 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | Self | If mid > right → minimum in right half, else → minimum in left (including mid) 
 | 18 | Search in Rotated Sorted Array | Binary Search | Medium | Hint | One half always sorted → decide direction using range check |
 | 19 | Time Based Key Value Store	| Binary Search	| Medium | Self | Binary search for last timestamp ≤ target (floor search) |
+| 20 | Longest Substring Without Repeating Characters | Sliding Window | Medium | Self | Expand window, shrink when duplicate using hashmap |
