@@ -26,3 +26,4 @@ DSA problems with solution and pattern
 | 19 | Time Based Key Value Store	| Binary Search	| Medium | Self | Binary search for last timestamp ≤ target (floor search) |
 | 20 | Best Time to Buy and Sell Stock | Sliding Window / Greedy | Easy | Hint | Track minimum price so far and compute profit at each step |
 | 21 | Longest Substring Without Repeating Characters | Sliding Window | Medium | Self | Expand window, shrink when duplicate using hashmap |
+| 22 | Longest Repeating Character Replacement | Sliding Window | Medium | Hint | Maintain max frequency in window; shrink when (window size - maxFreq > k) |
