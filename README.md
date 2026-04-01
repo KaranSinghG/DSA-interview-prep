@@ -27,3 +27,6 @@ DSA problems with solution and pattern
 | 20 | Best Time to Buy and Sell Stock | Sliding Window / Greedy | Easy | Hint | Track minimum price so far and compute profit at each step |
 | 21 | Longest Substring Without Repeating Characters | Sliding Window | Medium | Self | Expand window, shrink when duplicate using hashmap |
 | 22 | Longest Repeating Character Replacement | Sliding Window | Medium | Hint | Maintain max frequency in window; shrink when (window size - maxFreq > k) |
+| 23 | Reverse Linked List | Linked List | Easy | Self | Reverse pointers using prev, curr, next |
+| 24 | Merge Two Sorted Lists | Linked List | Easy | Self | Compare nodes and attach smaller, then append remaining |
+| 25 | Linked List Cycle Detection | Linked List  | Easy | Hint | Fast pointer meets slow in cycle |
