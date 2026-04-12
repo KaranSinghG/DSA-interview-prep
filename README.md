@@ -30,3 +30,4 @@ DSA problems with solution and pattern
 | 23 | Reverse Linked List | Linked List | Easy | Self | Reverse pointers using prev, curr, next |
 | 24 | Merge Two Sorted Lists | Linked List | Easy | Self | Compare nodes and attach smaller, then append remaining |
 | 25 | Linked List Cycle Detection | Linked List  | Easy | Hint | Fast pointer meets slow in cycle |
+| 26 | Reorder Link List | Linked List | Medium | Hint | Find midpoint -> reverse second half -> alternate links|
