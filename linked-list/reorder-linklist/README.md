@@ -41,6 +41,6 @@ Find the middle of the list, reverse the second half, and merge both halves alte
 
 ---
 
-### Status
+### Solved
 
-Solved
+Hint
