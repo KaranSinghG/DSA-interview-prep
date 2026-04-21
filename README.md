@@ -32,3 +32,6 @@ DSA problems with solution and pattern
 | 25 | Linked List Cycle Detection | Linked List  | Easy | Hint | Fast pointer meets slow in cycle |
 | 26 | Reorder Link List | Linked List | Medium | Hint | Find midpoint -> reverse second half -> alternate links|
 | 27 | Remove Nth Node From End of List | Linked List | Medium | Hint | Maintain n-gap between two pointers so slow lands before node to delete |
+| 28 | Copy List With Random Pointer | Linked List | Medium | Hint | Use HashMap to map original → copy and assign random pointers correctly |
+| 29 | Add Two Numbers | Linked List | Medium | Self | Single loop + carry handles unequal lengths cleanly |
+| 30 | Valid Parentheses | Stack | Easy | Self | Push when no match, pop when valid pair found |
