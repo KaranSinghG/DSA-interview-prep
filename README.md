@@ -35,3 +35,5 @@ DSA problems with solution and pattern
 | 28 | Copy List With Random Pointer | Linked List | Medium | Hint | Use HashMap to map original → copy and assign random pointers correctly |
 | 29 | Add Two Numbers | Linked List | Medium | Self | Single loop + carry handles unequal lengths cleanly |
 | 30 | Valid Parentheses | Stack | Easy | Self | Push when no match, pop when valid pair found |
+| 31 | Min Stack | Stack | Medium | Hint | Store min at each index for O(1) getMin |
+| 32 | Evaluate Reverse Polish Notation | Stack | Medium | Self | Use stack and evaluate operator on last two nums |
