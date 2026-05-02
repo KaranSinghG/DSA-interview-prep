@@ -37,3 +37,4 @@ DSA problems with solution and pattern
 | 30 | Valid Parentheses | Stack | Easy | Self | Push when no match, pop when valid pair found |
 | 31 | Min Stack | Stack | Medium | Hint | Store min at each index for O(1) getMin |
 | 32 | Evaluate Reverse Polish Notation | Stack | Medium | Self | Use stack and evaluate operator on last two nums |
+| 33 | Happy Number | Hashing / Cycle Detection | Easy | Self | Detect cycle using HashSet |
